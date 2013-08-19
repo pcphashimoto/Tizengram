@@ -1,4 +1,4 @@
 Tizengram
 =========
 
-Tizen Application like Instagram
+Tizen sample application like Instagram
